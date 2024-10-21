@@ -12,9 +12,9 @@ With over 5 years of experience as a software engineer, I am on a mission to cre
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/mamareza_front/profilecard/?igsh=MW1va3F3cnd3czAxaw==" target="blank"><i align="center" class="devicon-instagram-original" alt="mamareza_front" height="40" width="60" ></i>
+<a href="https://www.instagram.com/mamareza_front/profilecard/?igsh=MW1va3F3cnd3czAxaw==" target="blank">my instagram<i align="center" class="devicon-instagram-original" alt="mamareza_front" height="40" width="60" ></i>
 </a>
-<a href="https://www.linkedin.com/in/mamarezafront/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="mamareza_front" height="40" width="60" ></i>
+<a href="https://www.linkedin.com/in/mamarezafront/" target="blank">my linkedin<i align="center" class="devicon-linkedin-plain colored" alt="mamareza_front" height="40" width="60" ></i>
 </a>
 </p>
 
